@@ -4,3 +4,4 @@ Taylor Moede
 Git Version Control Lab
 
 "This might cause a merge cause a merge conflict"
+Partner: Dan Nguyen
